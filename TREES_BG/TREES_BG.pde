@@ -50,8 +50,6 @@ void draw(){
   
   if(_numBushes > 0)
     parseBushes();
-  
-  delay(5);
 }
 
 void newBush(){
