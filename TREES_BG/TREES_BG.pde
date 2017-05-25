@@ -1,5 +1,3 @@
-/* @pjs preload="BUSH.png"; */
-
 PImage _bush;
 
 float _BASE_POSSIBILITY = 10.0;
